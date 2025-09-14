@@ -5,7 +5,7 @@
 Started coding during a boring friday lecture in uni, finally finished on a rainy Saturday
 
 <img src="output/demos/demo1.png">
-
+<img src="output/demos/demo3.png">
 <img src="output/demos/demo2.png">
 
 ## foreword
